@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python/python3 app.py
+python/python3 main.py
 ```
 
 ## License
